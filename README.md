@@ -219,19 +219,7 @@ Although Electronics had the strongest potential revenue, other categories may c
 
 ---
 
-# Dashboard
 
-The Excel dashboard was designed to allow users to explore product performance interactively using:
-
-* PivotTables
-* Pivot Charts
-* Slicers
-* Calculated fields
-* Category-level comparisons
-
-The dashboard allows product categories and performance indicators to be compared without having to work directly with the raw dataset.
-
----
 
 # Technical Work
 
@@ -287,7 +275,19 @@ Similarly, a high product rating does not necessarily mean that the product has 
 Looking at several measures together gives a more useful picture of product performance than relying on one metric.
 
 ---
+# Dashboard
 
+The Excel dashboard was designed to allow users to explore product performance interactively using:
+
+* PivotTables
+* Pivot Charts
+* Slicers
+* Calculated fields
+* Category-level comparisons
+
+The dashboard allows product categories and performance indicators to be compared without having to work directly with the raw dataset.
+
+---
 The Dashboard Pages.
 ![Amazon Sales Dashboard Pg 1 2](https://github.com/user-attachments/assets/fceeb2b1-eaae-4458-96f3-41a89ce629ad)
 ![Amazon Sales Dashboard Pg 2 2](https://github.com/user-attachments/assets/ddbbfe81-2d34-4d5d-b2e7-28b23def3c08)
